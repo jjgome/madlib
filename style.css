@@ -1,0 +1,45 @@
+html {
+  background: url(img/airplane-cloud-social.jpg);
+  background-size: cover;
+}
+
+body {
+  background-color: rgba(253, 249, 249, 0.781);
+  width: 350px;
+  margin: 100px auto;
+  padding: 25px 120px 45px;
+  border-radius: 20px;
+  font-style: italic;
+}
+
+button {
+  background: lightskyblue;
+  padding: 5px 20px 5px;
+  transition: 1s;
+}
+
+#container {
+  border: 3px rgb(243, 113, 113) solid;
+  padding: 10px;
+}
+
+h2,
+h1 {
+  color: rgb(6, 6, 190);
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+button:hover {
+  background: rgb(243, 113, 113);
+  transition: 1s;
+}
+
+#blanks {
+  background: rgba(253, 249, 249, 0.699);
+  padding: 30px;
+  border: 2px solid lightskyblue;
+  border-radius: 35px;
+}
